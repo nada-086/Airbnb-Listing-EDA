@@ -26,5 +26,6 @@
 - Trend Identification:
   - Identify and interpret trends and patterns from the data:
   - Seasonal trends in demand based on time of year.
-Preferred property types and their respective pricing ranges.
-High-demand areas and their characteristics.
+  - Preferred property types and their respective pricing ranges.
+  - High-demand areas and their characteristics.
+- Dataset Resource: http://insideairbnb.com/get-the-data/
